@@ -1,0 +1,18 @@
+Enter your full Name
+Vaibhav Diwan
+Enter your age
+36
+Enter 4-digit secret code
+1122
+Enter your CPI
+6.6
+enter your mobile number
+9754435581
+Enter your exam status as true for pass or false for fail
+false
+Name : Vaibhav Diwan
+Age : 36
+4-digit code : 1122
+CPI : 6.6
+Mobile no : 9754435581
+Passed : false
