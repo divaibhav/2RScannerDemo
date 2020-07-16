@@ -15,5 +15,6 @@ public class ScannerQue {
         String name = sc.next();
         String section = sc.nextLine();
         System.out.println(roll + "," + name + "," + section);
+        System.out.println("hello github");
     }
 }
